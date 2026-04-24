@@ -100,12 +100,12 @@ function WelcomeView(props) {
           }
         </Box>
         <Box className={styledClasses.sponsorContainer} style={{flex: 2}}>
-          {/* <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">
-            <img src="sponsor.png" alt="Sponsor logo" className={styledClasses.sponsor} />
+          { <a href="https://www.google.com/" target="_blank" rel="noopener noreferrer">
+            <img src="Logo.png" alt="Sponsor logo" className={styledClasses.sponsor} />
           </a>
           <a href="https://www.google.fi/maps/" target="_blank" rel="noopener noreferrer">
-            <img src="sponsor2.png" alt="Sponsor logo" className={styledClasses.sponsor} />
-          </a> */}
+            <img src="Logo.png" alt="Sponsor logo" className={styledClasses.sponsor} />
+          </a> }
         </Box>
         <Box className={styledClasses.buttonContainer}>
           <Button
