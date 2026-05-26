@@ -1,0 +1,10 @@
+Pallaksen Pöllöjen tuottama lumisovellus tarjoaa tietoa alueella vallitsevista lumiolosuhteista. Aktiivisessa käytössä sovellus on helmikuusta toukokuuhun. Tunturialue on jaettu segmentteihin, joiden sisällä lumi on tyypillisesti hyvin samanlaista. 
+Pallaksen Pöllöt tarjoaa lumisovellukseen käyttöön Pallas-tunturin säätietoja, ja lisäksi mahtavan maapallokartan, jolla on mahdollista nähdä vaikka kaikkien maailman kaupunkien nimet ja katujen nimet ja lisäksi tavallisimmat luonnon kohteet.
+Sovelluksen tiedot ovat oppaiden subjektiivisia havaintoja ja olosuhteet voivat muuttua nopeasti. Lumitietoja hyödynnettäessä kannattaakin huomioida havainnon aikaleima, sekä mitä lisätietoa segmentistä on annettu ja mitä säädata alueesta kertoo. Tunturissa kulkija on itse vastuussa havaintojen soveltamisesta, eikä sovellus miltään osin vähennä omaa vastuuta.
+
+Jokaisen segmentin tarkempi lumitieto aukeaa sitä klikkaamalla. Tietoa säästä viime päiviltä ja koko kaudelta löydät sääpainikkeen takaa.
+
+Tulemme parantelemaan tätä sovellusta monia kertoja, tätä ohjelmaa on tehty yhteistyönä myös tuni-yliopistoyhteisön kanssa.
+Toivomme, että viihdytte Lumisovelluksen kanssa.
+
+Vasemman puoleisen kuvan painaminen hiirellä pistää Googlen etsintäsivulle ja oikeanpuoleisella pääsee Google-Mapsiin.
